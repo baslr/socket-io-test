@@ -1,0 +1,11 @@
+{
+  "name": "socket-io-test"
+, "version": "0.0.1"
+, "private": true
+, "description": "socket-io-test"
+, "dependencies": {
+    "node-static"       : "latest"
+  , "coffee-script"     : "latest"
+  , "socket.io"	        : "0.9.13"  
+  }
+}
